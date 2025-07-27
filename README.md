@@ -1,9 +1,9 @@
-Dieses Repository ist Bestandteil einer Bachelorarbeit an der Hochschule Landshut.
+Dieses Repository ist Bestandteil einer Bachelorarbeit an der Hochschule Landshut
 
-Autor: Martin SchuldesTitel der Arbeit: 
+Autor: Martin Schuldes
 
-Der CVM-Algorithmus im Praxistest
+Titel der Arbeit: Der CVM-Algorithmus im Praxistest
 
-Der in diesem Repository veröffentlichte Benchmarktest zeigt den Laufzeitvorteil der Klasse Random() gegenüber SecureRandom() auf.
+Der in diesem Repository veröffentlichte Benchmarktest zeigt den Laufzeitvorteil der Klasse Random() gegenüber SecureRandom() auf
 
 Letztes Upload: 24.07.2025
