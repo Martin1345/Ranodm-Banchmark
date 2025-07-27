@@ -1,6 +1,6 @@
 package random;
 
-import java.security.SecureRandom;// Import der Klasse SecureRandom, die für kryptografisch sichere Zufallszahlen verwendet wird.
+import java.security.SecureRandom;// Import der Klasse SecureRandom, die für kryptografisch sichere Zufallszahlen verwendet wird
 import java.util.Random;//  Import der Klasse Random, die Zufallszahlen generiert
 public class RandomBenchmark{// Diese Klasse führt einen Benchmark-Test für die Klassen Random und SecureRandom durch, um die Laufzeiten zu vergleichen
     public static void main(String[] args) {
